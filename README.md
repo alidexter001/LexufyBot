@@ -45,12 +45,15 @@ _**LexufyBot**_ is an **Advanced** and **Simple** ***_MusicBot_*** Made By   **_
 
 Install the `Packages` and start the server.
 
+***
+
 **_For Windows..._**
 ```sh
 cd LexufyBot
 npm i
 node index.js
 ```
+***
 
 **_For Replit..._**
 
@@ -61,10 +64,9 @@ node index.js
 **_On The `Shell` Type The Following Commands_**
 ```sh
 npm i
-
 node index.js
 ```
-
+***
 
 ## *_Development_*
 
