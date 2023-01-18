@@ -1,4 +1,4 @@
-# Advanced MusicBot Using Only `</commands>`
+# MusicBot Only `</commands>`
 ## _An advanced Music Bot Made By C4•Clan_
 ### ***_© C4•Clan 2023 All rights reserved_***
 
