@@ -112,7 +112,7 @@ module.exports = {
                         if (typeof track.displayThumbnail === "function") embed.setThumbnail(track.displayThumbnail("hqdefault"))
                         
                         await interaction.reply({embeds: [embed]})
-                    }catch(e){console.log(e)}
+                    }catch{}
                 }
         }
     }
