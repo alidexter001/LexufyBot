@@ -1,26 +1,26 @@
 require('dotenv').config();
 
 module.exports = {
-    SUPPORT_SERVER: 'https://discord.gg/naGkv5j2wf',
-    CLIENT_ID: '827179673376915516',
-    PERMISSIONS: '521871941441',
+    SUPPORT_SERVER: '',// the support server of the bot
+    CLIENT_ID: '',// your bot id here
+    PERMISSIONS: '521871941441',// all the permissions that the bot need,(don't edit)
     BOT_PRESENCE: {
-        ENABLED: true, // Whether or not the bot should update its status
+        ENABLED: true, // ENABLING the bot to update his status every 60sec
         STATUS: "idle", // The bot's status [online, idle, dnd, invisible]
         TYPE: 2, // Status type for the bot [PLAYING = 0 | STREAMING = 1 | LISTENING = 2 | WATCHING = 3 | CUSTOM = 4 | COMPETING = 5 ]
-        MESSAGE: "/play | On {servers} Guilds", // Your bot status message
+        MESSAGE: "/play | On {servers} Guilds", // Your bot status message ({servers} = the guilds size that the bot is on, {users} the users size on all the guilds)
     },
     MUSIC: {
-        IDLE_TIME: 10//time in seconds before the client disconnects from the voice channel. 
+        IDLE_TIME: 10//time in seconds before the client disconnects from the voice channel after the queue end. 
     },
     NODES: [
     {
-        host: "lavalink.botsuniversity.ml",
-        port: 443,
-        password: "mathiscool",
-        identifier: "main",
-        retryDelay: 60000,
-        secure: true,
+        host: "", // add the host here
+        port: 443,// port here
+        password: "",// the host password here
+        identifier: "main",// the name of the host || "main"
+        retryDelay: 60000, // the retry delay
+        secure: true, // self hosted: true, else: false
 
     },
 
