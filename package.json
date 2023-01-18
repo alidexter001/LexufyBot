@@ -1,12 +1,12 @@
 {
   "name": "lavalink-music-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "This bot is made 100% by the C4Clan. All Right Reserved.",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "",
+  "author": "Ali From The C4 Clan",
   "license": "ISC",
   "dependencies": {
     "@discordjs/voice": "^0.14.0",
