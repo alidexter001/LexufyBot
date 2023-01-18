@@ -9,7 +9,8 @@ _**LexufyBot**_ is an **Advanced** and **Simple** ***_MusicBot_*** Made By   **_
 - Support *_`Youtube | Spotify | Deezer | Radio Stations`_*
 - Made With *_`Erela.js | Erela.js-Spotify | Erela.js-Deezer | Erela.js-Facebook`_*
 - Total commands *_`20 Commands`_*
- Developed By: \n [![Discord Presence](https://lanyard.cnrad.dev/api/622846126713995305?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px)](https://discord.com/users/622846126713995305)
+ Developed By: `!௹ ◈คli◈ ௹#7137`
+ [![Discord Presence](https://lanyard.cnrad.dev/api/622846126713995305?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px)](https://discord.com/users/622846126713995305)
 
 ## *_Commands_*
 
