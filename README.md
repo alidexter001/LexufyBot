@@ -56,7 +56,7 @@ node index.js
 
 **_For Replit..._**
 
-**_Click On The `The Button` Down Below_**
+**_Click The `The Button` Down Below_**
 
 [![Repl.it](https://i.imgur.com/jztSOMQ.png)](https://replit.com/github/alidexter001/LexufyBot)
 
