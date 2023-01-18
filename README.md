@@ -41,7 +41,7 @@ _**LexufyBot**_ is an **Advanced** and **Simple** ***_MusicBot_*** Made By   **_
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/dist/v18.0.0/node-v18.0.0-x64.msi) v18+ to run.
+***_LexufyBot_*** requires [Node.js](https://nodejs.org/dist/v18.0.0/node-v18.0.0-x64.msi) v18+ to run.
 
 Install the `Packages` and start the server.
 
@@ -53,8 +53,11 @@ node index.js
 ```
 
 **_For Replit..._**
+
 **_Click On The `The Button` Down Below_**
+
 [![Repl.it](https://i.imgur.com/jztSOMQ.png)](https://replit.com/github/alidexter001/LexufyBot)
+
 **_On The `Shell` Type The Following Commands_**
 ```sh
 npm i
