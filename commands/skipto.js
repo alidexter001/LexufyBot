@@ -26,7 +26,7 @@ module.exports = {
             else if(player.queue.size === 0) return interaction.reply({content:`❌ **| You can't use this command. *\`There Is Only One Track On The Queue.\`***`, ephemeral: true})
 
         try {
-           await player.stop(player.queue.size - skipTo)
+           await player.stop(player.queue.size - (skipTo + 0))
            let embed = new EmbedBuilder()
             .setAuthor({name: interaction.client.user.username, iconURL: interaction.client.user.displayAvatarURL({dynamic: false})})
             .setColor(EMBED_COLORS.SKIP)
