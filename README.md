@@ -40,7 +40,7 @@ _**LexufyBot**_ is an **Advanced** and **Simple** ***_MusicBot_*** Made By   **_
 
 ## Installation
 
-***_LexufyBot_*** requires [Node.js](https://nodejs.org/dist/v18.0.0/node-v18.0.0-x64.msi) v18+ to run.
+***_LexufyBot_*** requires [Node.js](https://nodejs.org/dist/v18.0.0/node-v18.0.0-x64.msi) v18 to run.
 
 Install the `Packages` and start the server.
 
